@@ -1,0 +1,17 @@
+if True:
+    print('ITS TRUE!')
+if 3 > 2:
+    print('ITS TRUE!')
+hungry = True
+if hungry:
+    print('FEED ME!')
+hungry = False
+if hungry:
+    print('FEED ME!')
+else:
+    print('Im not hungry')
+hungry = True
+if hungry:
+    print('FEED ME!')
+else:
+    print('Im not hungry')
